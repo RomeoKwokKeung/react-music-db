@@ -1,2 +1,2 @@
 # react-music-db
-Simple React project utilizing a json file to render music artist details. 
+Simple create-react-app project utilizing a json file to render music artist details as artist profile pages.
